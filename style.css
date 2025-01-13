@@ -1,0 +1,68 @@
+body
+{
+    background-image: url("https://cdn.shopify.com/s/files/1/0603/5439/6408/files/fishcircle_2000x952_09cd941e-e1e9-4ed6-9b93-a94166e9c37f.webp?v=1653509090");
+    background-size: 101%;
+}
+
+h1
+{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 5rem;
+    color: #183c40;
+    font-family: "Algerian", sans-serif;
+    text-decoration: #1e4d50 underline;
+    background-color: rgba(34, 112, 115, 0.54);
+}
+
+h2
+{
+    font-size: 50px;
+    text-decoration: #2b7f83 underline;
+    margin-left:15px;
+    font-family: "Bernard MT Condensed", sans-serif;
+    color: #2096a5;
+    background-color: rgba(17, 37, 32, 0.7);
+    border-width: 1rem;
+    max-width: 25%;
+}
+a:visited
+{
+    color: #174a4e;
+}
+a:hover
+{
+    font-size: 4.5rem;
+}
+
+img
+{
+    border: 3px solid #183187;
+    border-radius: 5%;
+    transition: border-radius 0.5s;
+}
+
+p
+{
+    font-size: 1.5rem;
+    text-align: left;
+    max-width: 100%;
+    font-family: sans-serif;
+    background-color: rgba(20, 82, 154, 0.76);
+    border-radius: 5%;
+    border: 5px solid rgba(20, 82, 154, 0.76);
+}
+
+a
+{
+    transition: font-size 0.5s;
+    font-size: 4rem;
+    text-decoration: none;
+    padding: 2rem;
+    border: #174a4e dashed;
+    border-radius: 50%;
+    background-color: rgba(55, 151, 230, 0.72);
+    color: #2b7f83;
+    max-width: 1rem;
+
+}
